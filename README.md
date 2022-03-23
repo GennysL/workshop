@@ -1,5 +1,5 @@
 # workshop
 workshop demo project for Git workshop
-## Now subheading
+## New subheading
 
 adding a paragraph
