@@ -5,5 +5,4 @@ workshop demo project for Git workshop
 adding a paragraph
 
 this should be a new paragraph again
-i like
-snorlax
+
